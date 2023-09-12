@@ -19,8 +19,6 @@ Restaurant Management System is a robust software solution designed to facilitat
 - **User Authentication**: Secure login and logout process to protect sensitive information.
 - **Role-Based Access Control**: Different access levels based on user roles for enhanced security.
 
-_(You might add or remove features according to your project details)_
-
 ## Technologies
 
 - **Java**: The backbone of the application, a high-level programming language used for building robust applications.
